@@ -1,5 +1,5 @@
 # Matrix-Structural-Analysis
-Numerical methods used for structural analysis
+Instances of numerical methods used for structural analysis
 # Direct Stiffness Method
 This program uses Direct Stiffness Method to generate the Stiffness Matrix of a 2D structure, independent from the Loading condition.<br/>
 The inputs include:<br/>
